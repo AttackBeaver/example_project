@@ -5,3 +5,7 @@ def fun_example ():
     print ("Добавленное действие")
 
 fun_example()
+
+def fun_example_1():
+    '''Пример второй функции'''
+    print ("Еще одно действие")
